@@ -140,7 +140,12 @@ This project is open source and available under the [MIT License](LICENSE).
 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kiran.rawat3887/viz/SmartphonesDataQuickAnalysis/SMARTPHONESSUMMARY)
 <img width="1879" height="990" alt="image" src="https://github.com/user-attachments/assets/95f67c4d-91d2-4122-9fbe-faaf8040b5b7" />
 
+## 🌐 Live Demo
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://short-startup-analysis.streamlit.app/)
+
+> 🔗 [Launch Live App →](https://short-startup-analysis.streamlit.app/)
+> 
 ## 👤 Author
 
 **Kiran Rawat**

@@ -135,6 +135,11 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+## 📈 Tableau Dashboard
+
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/kiran.rawat3887/viz/SmartphonesDataQuickAnalysis/SMARTPHONESSUMMARY)
+<img width="1879" height="990" alt="image" src="https://github.com/user-attachments/assets/95f67c4d-91d2-4122-9fbe-faaf8040b5b7" />
+
 
 ## 👤 Author
 
